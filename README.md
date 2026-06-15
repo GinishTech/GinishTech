@@ -6,7 +6,7 @@
 ### 💫 About My Journey
 I am actively building my skills to bridge the gap between data insights and predictive AI. Currently, I am mastering the art of data analytics—cleaning messy datasets and turning them into visual stories—while preparing for the world of machine learning.
 
-- 🌱 Currently learning: **SQL Advanced Queries, Tableau, and Python (Pandas)**
+- 🌱 Currently learning: **SQL Advanced Queries, Power BI, and Python (Pandas)**
 - 🔭 Working on: **Exploratory Data Analysis (EDA) projects**
 - 💬 Ask me about: **Data visualization, spreadsheets, or learning paths!**
 
