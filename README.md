@@ -1,4 +1,4 @@
-# 🌐 GinishTech Data Analytics Hub
+# 📊 Hi, I'm GINISH KUMAR!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
 
 ---
@@ -25,11 +25,11 @@ I am actively building my skills to bridge the gap between data insights and pre
       <br><b>Python</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Microsoft Power BI" />
+      <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Microsoft Power BI" />
       <br><b>Microsoft Power BI</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" height="48" alt="Microsoft Excel" />
+      <img src="https://api.iconify.design/logos:microsoft-excel.svg" width="48" height="48" alt="Microsoft Excel" />
       <br><b>Microsoft Excel</b>
     </td>
     <td align="center" width="120">
@@ -47,3 +47,4 @@ I am actively building my skills to bridge the gap between data insights and pre
 
 ### 🧠 Data Mindset & Coding Core
 > "In God we trust, all others must bring data." — *W. Edwards Deming*
+
