@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="image_4.png" width="100%" alt="GinishTech Data Universe Banner" />
+  <img src="PASTE_YOUR_GENERATED_LINK_HERE" width="100%" alt="GinishTech Custom Banner" />
 </p>
-
 
 # 📊 Hi, I'm GinishTech!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
