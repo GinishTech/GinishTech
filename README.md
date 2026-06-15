@@ -33,8 +33,8 @@ I am actively building my skills to bridge the gap between data insights and pre
       <br><b>Microsoft Power BI</b>
     </td>
     <td align="center" width="120">
-      <img src="https://api.iconify.design/logos:microsoft-excel.svg" width="48" height="48" alt="Microsoft Excel" />
-      <br><b></b>
+      <img src="https://api.iconify.design/logos:microsoft-excel.svg" width="48" height="48" />
+      <br><b>Microsoft Excel</b>
     </td>
     <td align="center" width="120">
       <img src="https://api.iconify.design/logos:tableau.svg" width="48" height="48" alt="Tableau" />
