@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GinishTech.jpeg" width="100%" alt="GinishTech Custom Banner" />
+  <img src='GinishTech.jpeg' width="100%" alt="GinishTech Custom Banner" />
 </p>
 
 # 📊 Hi, I'm GinishTech!
