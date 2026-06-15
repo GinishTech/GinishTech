@@ -1,4 +1,4 @@
-![GINISHTECH Banner](Gemini_Generated_Image_sh3igqsh3igqsh3i.png)
+
 
 ### 📊 Hi, I'm GINISH KUMAR!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
