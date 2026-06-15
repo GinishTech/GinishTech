@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.jpeg" width="100%" alt="GinishTech Core Learning Stack Banner" />
+  <img src="GinishTech.png" width="100%" alt="GinishTech Custom Banner" />
 </p>
-
 
 # 📊 Hi, I'm GinishTech!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
