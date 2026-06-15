@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="GinishTech Core Learning Stack Banner" />
+  <img src="banner.jpeg" width="100%" alt="GinishTech Core Learning Stack Banner" />
 </p>
 
 
