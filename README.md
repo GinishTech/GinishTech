@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="GinishTech.png" alt="GinishTech Logo" width="1000">
+</p>
 
 ### 📊 Hi, I'm GINISH KUMAR!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
