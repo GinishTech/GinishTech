@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1O0K7K72Bv7I5_zBsc0f00Y5H9O5H8V9G" width="100%" alt="GinishTech Custom Banner" />
-</p>
+![GINISHTECH Banner](Gemini_Generated_Image_sh3igqsh3igqsh3i.png)
 
 ### 📊 Hi, I'm GINISH KUMAR!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
