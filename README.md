@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0:3670A0,100:232733&height=220&section=header&text=Welcome%20To%20My%20Data%20Universe&fontSize=40&animation=fadeIn" width="100%" alt="Data Science Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749000-8800041f-cb70-4f30-8438-e608f1068894.gif" width="100%" alt="Data Science Banner" />
 </p>
 
 # 📊 Hi, I'm GinishTech!
-### 📈 Aspiring Data Analyst ──► 🤖 Future Data Scientist
+### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
 
 ---
 
