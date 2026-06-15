@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="GinishTech.png" width="100%" alt="GinishTech Custom Banner" />
-</p>
-
-# 📊 Hi, I'm GinishTech!
+# 🌐 GinishTech Data Analytics Hub
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
 
 ---
@@ -29,11 +25,11 @@ I am actively building my skills to bridge the gap between data insights and pre
       <br><b>Python</b>
     </td>
     <td align="center" width="120">
-      <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Microsoft Power BI" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Microsoft Power BI" />
       <br><b>Microsoft Power BI</b>
     </td>
     <td align="center" width="120">
-      <img src="https://api.iconify.design/logos:microsoft-excel.svg" width="48" height="48" alt="Microsoft Excel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" height="48" alt="Microsoft Excel" />
       <br><b>Microsoft Excel</b>
     </td>
     <td align="center" width="120">
@@ -51,13 +47,3 @@ I am actively building my skills to bridge the gap between data insights and pre
 
 ### 🧠 Data Mindset & Coding Core
 > "In God we trust, all others must bring data." — *W. Edwards Deming*
-
-```python
-class DataJourney:
-    def __init__(self):
-        self.username = "GinishTech"
-        self.focus = ["Data Analytics", "Data Science"]
-        self.engine = ["Python", "SQL", "Power BI", "Excel"]
-
-    def execute_mission(self):
-        return "Extracting patterns, visualizing truths, predicting outcomes. 🚀"
