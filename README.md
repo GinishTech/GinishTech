@@ -1,4 +1,8 @@
-# 📊 Hi, I'm GINISH KUMAR!
+<p align="center">
+  <img src="https://images.prodia.xyz/af8ca0bd-1c91-49cf-8cb8-251a37c95b77.png" width="100%" alt="GinishTech Custom Banner" />
+</p>
+
+### 📊 Hi, I'm GINISH KUMAR!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
 
 ---
