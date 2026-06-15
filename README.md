@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GinishTech.png" alt="GinishTech Logo" width="1000">
+  <img src="GinishTech.png" alt="GinishTech Logo" width="900">
 </p>
 
 ### 📊 Hi, I'm GINISH KUMAR!
