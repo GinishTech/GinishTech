@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749000-8800041f-cb70-4f30-8438-e608f1068894.gif" width="100%" alt="Data Science Banner" />
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Data Science Dashboard" />
 </p>
+
 
 # 📊 Hi, I'm GinishTech!
 ### 📈 Aspiring Data Analyst -> 🤖 Future Data Scientist
